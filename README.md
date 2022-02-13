@@ -1,4 +1,6 @@
 # bash-script-template
-This template is open source, but if you will use it
+Basic template for `bash` scripts with builtin arg-parser.
 
-you will need to mention this repository.
+This template is [open source](https://en.wikipedia.org/wiki/Open_source)~~, but if you will use it~~
+
+~~you will **need to mention** this _repository_~~.
